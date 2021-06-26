@@ -13,7 +13,7 @@
 <h1 align="center">
     <img alt="Letmeask" src=".github/cover.svg" />
 </h1>
-<h1 align="center" width="100%">
+<h1 align="center">
     <img alt="Gif do Projeto" src=".github/gifProjeto.gif" />
 </h1>
 
