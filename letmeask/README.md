@@ -7,12 +7,14 @@
   
   <img src="https://img.shields.io/github/stars/rocketseat-education/nlw-06-reactjs?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
 
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">   
-  <img  src=".github/gifProjeto.gif" alt="License">   
+  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">     
 </p>
 
 <h1 align="center">
     <img alt="Letmeask" src=".github/cover.svg" />
+</h1>
+<h1 align="center">
+    <img alt="Gif do Projeto" src=".github/gifProjeto.gif" />
 </h1>
 
 <br>
